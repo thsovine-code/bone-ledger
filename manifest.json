@@ -5,6 +5,8 @@
   "action": {
     "title": "Bone Ledger PF2e Tracker",
     "icon": "/path-to-your-icon.svg",
-    "popover": "/"
+    "popover": "/",
+    "height": 800,
+    "width": 600
   }
 }
